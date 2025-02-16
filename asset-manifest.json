@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Invitation/static/css/main.361d14f5.css",
-    "main.js": "/Invitation/static/js/main.c68f5d1f.js",
+    "main.css": "/Invitation/static/css/main.cf2f2036.css",
+    "main.js": "/Invitation/static/js/main.1d522a2d.js",
     "static/media/backsound-invitation.mp3": "/Invitation/static/media/backsound-invitation.4bb79bb0bce728c6486e.mp3",
     "static/media/header_img.jpeg": "/Invitation/static/media/header_img.4558c2e63b411a9d8433.jpeg",
     "static/media/bg-venue.png": "/Invitation/static/media/bg-venue.12a7c2f68028a558b5ee.png",
@@ -34,11 +34,11 @@
     "static/media/protokol-3.png": "/Invitation/static/media/protokol-3.805328ee950ffe10e127.png",
     "static/media/protokol-5.png": "/Invitation/static/media/protokol-5.8101cf82810980651e8c.png",
     "index.html": "/Invitation/index.html",
-    "main.361d14f5.css.map": "/Invitation/static/css/main.361d14f5.css.map",
-    "main.c68f5d1f.js.map": "/Invitation/static/js/main.c68f5d1f.js.map"
+    "main.cf2f2036.css.map": "/Invitation/static/css/main.cf2f2036.css.map",
+    "main.1d522a2d.js.map": "/Invitation/static/js/main.1d522a2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.361d14f5.css",
-    "static/js/main.c68f5d1f.js"
+    "static/css/main.cf2f2036.css",
+    "static/js/main.1d522a2d.js"
   ]
 }
