@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/Invitation/static/css/main.3cf31841.css",
-    "main.js": "/Invitation/static/js/main.15da485f.js",
+    "main.css": "/Invitation/static/css/main.80028cb2.css",
+    "main.js": "/Invitation/static/js/main.0e52b52d.js",
     "static/media/backsound-invitation.mp3": "/Invitation/static/media/backsound-invitation.4bb79bb0bce728c6486e.mp3",
-    "static/media/header_img.jpeg": "/Invitation/static/media/header_img.4558c2e63b411a9d8433.jpeg",
     "static/media/bg-venue.png": "/Invitation/static/media/bg-venue.12a7c2f68028a558b5ee.png",
     "static/media/photo.png": "/Invitation/static/media/photo.01aa83962f78f32bf5b2.png",
     "static/media/gl-6.png": "/Invitation/static/media/gl-6.fc287eb646f5b04b2273.png",
@@ -23,7 +22,6 @@
     "static/media/gl-8.png": "/Invitation/static/media/gl-8.1257655570b82a7c8f46.png",
     "static/media/gl-10.png": "/Invitation/static/media/gl-10.58ad5ab782e92113a948.png",
     "static/media/2_bride_img.png": "/Invitation/static/media/2_bride_img.949cdb9e944d05e96d1a.png",
-    "static/media/header_img_mobile.png": "/Invitation/static/media/header_img_mobile.10d1fceab7c8f1b67038.png",
     "static/media/gl-11.png": "/Invitation/static/media/gl-11.1e6793568de2f37b16d6.png",
     "static/media/countdown_bg_11zon.png": "/Invitation/static/media/countdown_bg_11zon.3d1c8d556cd724111b98.png",
     "static/media/tl-4.jpeg": "/Invitation/static/media/tl-4.4e2ae129965a09e9b709.jpeg",
@@ -35,11 +33,11 @@
     "static/media/protokol-3.png": "/Invitation/static/media/protokol-3.805328ee950ffe10e127.png",
     "static/media/protokol-5.png": "/Invitation/static/media/protokol-5.8101cf82810980651e8c.png",
     "index.html": "/Invitation/index.html",
-    "main.3cf31841.css.map": "/Invitation/static/css/main.3cf31841.css.map",
-    "main.15da485f.js.map": "/Invitation/static/js/main.15da485f.js.map"
+    "main.80028cb2.css.map": "/Invitation/static/css/main.80028cb2.css.map",
+    "main.0e52b52d.js.map": "/Invitation/static/js/main.0e52b52d.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cf31841.css",
-    "static/js/main.15da485f.js"
+    "static/css/main.80028cb2.css",
+    "static/js/main.0e52b52d.js"
   ]
 }
