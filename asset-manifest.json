@@ -1,36 +1,22 @@
 {
   "files": {
-    "main.css": "/Invitation/static/css/main.1a7cb74a.css",
-    "main.js": "/Invitation/static/js/main.99e7e8ee.js",
+    "main.css": "/Invitation/static/css/main.366ffc2e.css",
+    "main.js": "/Invitation/static/js/main.10b8f7a9.js",
     "static/media/backsound-invitation.mp3": "/Invitation/static/media/backsound-invitation.27b68606b6503bd1bc36.mp3",
     "static/media/photo.png": "/Invitation/static/media/photo.01aa83962f78f32bf5b2.png",
-    "static/media/gl-6.png": "/Invitation/static/media/gl-6.fc287eb646f5b04b2273.png",
     "static/media/closing-img.png": "/Invitation/static/media/closing-img.15f0ae0c58d60d590042.png",
-    "static/media/gl-2.png": "/Invitation/static/media/gl-2.16afdf615671839fc8bc.png",
-    "static/media/gl-3.png": "/Invitation/static/media/gl-3.471e65c3bad79d2dd2fd.png",
-    "static/media/gl-9.png": "/Invitation/static/media/gl-9.266d367050bfcd5c52a9.png",
-    "static/media/gl-5.png": "/Invitation/static/media/gl-5.20771304d0b6040d390e.png",
     "static/media/2_bride_img.png": "/Invitation/static/media/2_bride_img.2d254f0d9307a5981993.png",
-    "static/media/gl-4.png": "/Invitation/static/media/gl-4.9b54e7d14a28f833f744.png",
     "static/media/3_groom.png": "/Invitation/static/media/3_groom.7da97baac64bda18161e.png",
     "static/media/timeline-bg.jpg": "/Invitation/static/media/timeline-bg.4b0fd25f40c85e8e6b74.jpg",
-    "static/media/gl-7.png": "/Invitation/static/media/gl-7.ac69ca3b5df130acd176.png",
-    "static/media/gl-1.png": "/Invitation/static/media/gl-1.0830425757c9fc803fcc.png",
-    "static/media/gl-8.png": "/Invitation/static/media/gl-8.1257655570b82a7c8f46.png",
-    "static/media/gl-10.png": "/Invitation/static/media/gl-10.58ad5ab782e92113a948.png",
-    "static/media/gl-11.png": "/Invitation/static/media/gl-11.1e6793568de2f37b16d6.png",
-    "static/media/protokol-4.png": "/Invitation/static/media/protokol-4.b06aa4c248748cdb1e48.png",
-    "static/media/protokol-2.png": "/Invitation/static/media/protokol-2.c8522d01809f402fd540.png",
-    "static/media/protokol-6.png": "/Invitation/static/media/protokol-6.8edea457261817667518.png",
-    "static/media/protokol-1.png": "/Invitation/static/media/protokol-1.d641c12977a97724cd86.png",
-    "static/media/protokol-3.png": "/Invitation/static/media/protokol-3.805328ee950ffe10e127.png",
-    "static/media/protokol-5.png": "/Invitation/static/media/protokol-5.8101cf82810980651e8c.png",
+    "static/media/gl-1.png": "/Invitation/static/media/gl-1.c51a7ef47e79f882dac6.png",
+    "static/media/gl-2.png": "/Invitation/static/media/gl-2.b349aa1a30564cd19d20.png",
+    "static/media/protokol-1.png": "/Invitation/static/media/protokol-1.21b1e835208c5a63eed3.png",
     "index.html": "/Invitation/index.html",
-    "main.1a7cb74a.css.map": "/Invitation/static/css/main.1a7cb74a.css.map",
-    "main.99e7e8ee.js.map": "/Invitation/static/js/main.99e7e8ee.js.map"
+    "main.366ffc2e.css.map": "/Invitation/static/css/main.366ffc2e.css.map",
+    "main.10b8f7a9.js.map": "/Invitation/static/js/main.10b8f7a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a7cb74a.css",
-    "static/js/main.99e7e8ee.js"
+    "static/css/main.366ffc2e.css",
+    "static/js/main.10b8f7a9.js"
   ]
 }
