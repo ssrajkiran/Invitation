@@ -1,22 +1,24 @@
 {
   "files": {
     "main.css": "/Invitation/static/css/main.6c4e0155.css",
-    "main.js": "/Invitation/static/js/main.f6b0c1cc.js",
+    "main.js": "/Invitation/static/js/main.d64ac89c.js",
     "static/media/backsound-invitation.mp3": "/Invitation/static/media/backsound-invitation.27b68606b6503bd1bc36.mp3",
     "static/media/gl-1.png": "/Invitation/static/media/gl-1.e694ed8746c2ddb12d13.png",
     "static/media/photo.png": "/Invitation/static/media/photo.01aa83962f78f32bf5b2.png",
-    "static/media/closing-img.png": "/Invitation/static/media/closing-img.15f0ae0c58d60d590042.png",
+    "static/media/gl-4.png": "/Invitation/static/media/gl-4.f98ec5fca1e2f1763525.png",
     "static/media/3_groom.png": "/Invitation/static/media/3_groom.6eaf1c372267a991295e.png",
+    "static/media/gl-3.png": "/Invitation/static/media/gl-3.cbdca1ec8a12bbea081a.png",
     "static/media/2_bride_img.png": "/Invitation/static/media/2_bride_img.1fd9f414e3301e3044b5.png",
     "static/media/timeline-bg.jpg": "/Invitation/static/media/timeline-bg.4b0fd25f40c85e8e6b74.jpg",
+    "static/media/closing-img.png": "/Invitation/static/media/closing-img.fd7d24c0c5b70ba278ce.png",
     "static/media/protokol-1.png": "/Invitation/static/media/protokol-1.8dab3e62ef9d3a947c0f.png",
     "static/media/gl-2.png": "/Invitation/static/media/gl-2.b349aa1a30564cd19d20.png",
     "index.html": "/Invitation/index.html",
     "main.6c4e0155.css.map": "/Invitation/static/css/main.6c4e0155.css.map",
-    "main.f6b0c1cc.js.map": "/Invitation/static/js/main.f6b0c1cc.js.map"
+    "main.d64ac89c.js.map": "/Invitation/static/js/main.d64ac89c.js.map"
   },
   "entrypoints": [
     "static/css/main.6c4e0155.css",
-    "static/js/main.f6b0c1cc.js"
+    "static/js/main.d64ac89c.js"
   ]
 }
