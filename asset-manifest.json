@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Invitation/static/css/main.6c4e0155.css",
-    "main.js": "/Invitation/static/js/main.756e9f84.js",
+    "main.js": "/Invitation/static/js/main.2989951f.js",
     "static/media/backsound-invitation.mp3": "/Invitation/static/media/backsound-invitation.27b68606b6503bd1bc36.mp3",
     "static/media/gl-1.png": "/Invitation/static/media/gl-1.e694ed8746c2ddb12d13.png",
     "static/media/2_bride_img.png": "/Invitation/static/media/2_bride_img.0ec315e45ac5c6e5e6aa.png",
@@ -15,10 +15,10 @@
     "static/media/gl-2.png": "/Invitation/static/media/gl-2.b349aa1a30564cd19d20.png",
     "index.html": "/Invitation/index.html",
     "main.6c4e0155.css.map": "/Invitation/static/css/main.6c4e0155.css.map",
-    "main.756e9f84.js.map": "/Invitation/static/js/main.756e9f84.js.map"
+    "main.2989951f.js.map": "/Invitation/static/js/main.2989951f.js.map"
   },
   "entrypoints": [
     "static/css/main.6c4e0155.css",
-    "static/js/main.756e9f84.js"
+    "static/js/main.2989951f.js"
   ]
 }
